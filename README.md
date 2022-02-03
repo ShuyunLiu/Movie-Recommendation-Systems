@@ -1,9 +1,13 @@
 # Movie-Recommendation-Systems
+This project is collaborated by Chu-Yun Hsiao, Chia-Yen Ho, Shu-Yun Liu, Yu-Chun Peng.
+
 As movie streaming platforms being prosperous for the past decade, the recommendation engine behind each platform has become even more important in order to retain users by providing more precise movie recommendations. The recommendation engine can be broadly applied in various aspects of our everyday life, such as media, E-commerce, retail etc.
-Given that most of the files are too big, I stored all the data on google drive. If you are interested, feel free to access the raw data and R files with this link.
 
-https://drive.google.com/drive/u/0/folders/1tOg2LaVdp1rjxLKjj2nSVWwHMlsj8Dp1
+As passionate data scientists who love watching movies in our leisure time, we decided to explore how these streaming platforms recommend movies based on our movie preferences. We created four movie recommendation systems, including demographic filtering, content-based filtering, collaborative filtering, and hybrid engine. Each of which provides movie recommendations based on user preferences or movie features.
 
-The raw data file includes all the data file used.
-The model file includes all the model attempted.
-The process file includes all the python file throughout the entire project.
+The original data source is from Kaggle. Link as below:
+https://www.kaggle.com/tmdb/tmdb-movie-metadata
+https://www.kaggle.com/rounakbanik/the-movies-dataset
+
+This project is inspired by
+https://www.kaggle.com/ibtesama/getting-started-with-a-movie-recommendation-system
